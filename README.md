@@ -1,1 +1,1 @@
-My practice codes for Microsoft Small Basic from the year 2007.
+My Microsoft Small Basic practice codes from the year 2007.
