@@ -1,0 +1,8 @@
+TextWindow.Write("WRITE ANY NUMBER")
+num = TextWindow.ReadNumber()
+remainder = Math.Remainder(num, 2)
+If (remainder = 0 ) Then
+  TextWindow.WriteLine("The number is odd . Have a gooo daay" )
+Else
+  TextWindow.WriteLine("Please check the password again. Gooo By ")
+  EndIf

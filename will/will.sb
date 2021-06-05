@@ -1,0 +1,8 @@
+TextWindow.Write("Write any number of your choice : "
+nim = TextWindow.ReadNumber()
+remainder = Math.Remainder(num, 2)
+If (remainder=0) Then
+  TextWindow.WriteLine("You have an answer to key to success")
+Else
+  TextWindow.WriteLine("You won the game .  CONGRATULATIONS!!!")
+  EndIf

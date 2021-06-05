@@ -1,0 +1,5 @@
+For i = 1 To 10
+  GraphicsWindow.PenColor = GraphicsWindow.GetRandomColor()
+  Turtle.Move(120)
+  Turtle.Turn()
+  EndFor

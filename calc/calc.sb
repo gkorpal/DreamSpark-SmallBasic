@@ -1,0 +1,6 @@
+TextWindow.WriteLine("Write the first number which yo want to multiply: ")
+number1 = TextWindow.ReadNumber()
+TextWindow.WriteLine("Enter the second number: ")
+number2 = TextWindow.ReadNumber()
+result = number1 * number2
+TextWindow.WriteLine( "The product is:  "  + result )
