@@ -1,1 +1,1 @@
-My Microsoft Small Basic practice codes from the year 2007 (middle school). My first introduction to computer programming.
+My Microsoft Small Basic practice codes from the academic year 2008-09 (middle school). My first introduction to computer programming while exploring various tools from Microsoft DreamSpark initiative.
