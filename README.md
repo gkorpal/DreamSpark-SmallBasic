@@ -1,5 +1,4 @@
-My Microsoft Small Basic practice codes from my first introduction to computer programming while exploring various tools from Microsoft DreamSpark initiative during the academic year 2011-12.
-
+My Microsoft Small Basic v0.9 practice codes from the Imperative Programming explorations I did as part of the Microsoft DreamSpark initiative during the academic year 2010-11. The codes were tested on Windows XP SP3 (32-bit) with .NET framework 3.5 SP1
 
 Reference (click on the image to access its online version):
 
