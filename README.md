@@ -1,10 +1,10 @@
-My Microsoft Small Basic v0.9 practice codes from the "Introduction to Programming" tutorial by Vijaye Raji. I did this as part of the Microsoft DreamSpark initiative during the academic year 2010-11. The codes were tested on Windows XP SP3 (32-bit) with .NET framework 3.5 SP1
+My [Microsoft Small Basic](https://en.wikipedia.org/wiki/Microsoft_Small_Basic) v0.1-0.5 practice codes from the "Introduction to Programming" tutorial by Ed Price. I did this as part of the [Microsoft DreamSpark](https://news.microsoft.com/2008/02/18/microsoft-gives-students-access-to-technical-software-at-no-charge-to-inspire-success-and-make-a-difference/) initiative during 2008-2009. The codes were tested on Windows XP SP3 (32-bit) with .NET framework 3.5 SP1
 
 Reference (click on the image to access its online version):
 
 <p>
 <center>
-    <a href="https://social.technet.microsoft.com/wiki/contents/articles/16059.small-basic-getting-started-guide.aspx">
+    <a href="https://techcommunity.microsoft.com/t5/small-basic-blog/hello-world/ba-p/335289">
      <img alt="smallbasic" src="https://gkorpal.github.io/images/smallba.png"
        width="210" height="300" class="center">
   </a>
