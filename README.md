@@ -1,4 +1,4 @@
-My [Microsoft Small Basic](https://en.wikipedia.org/wiki/Microsoft_Small_Basic) v0.1-0.5 practice codes from the "Introduction to Programming" tutorial by Ed Price. I did this as part of the [Microsoft DreamSpark](https://news.microsoft.com/2008/02/18/microsoft-gives-students-access-to-technical-software-at-no-charge-to-inspire-success-and-make-a-difference/) initiative during 2008-2009. The codes were tested on Windows XP SP3 (32-bit) with .NET framework 3.5 SP1
+My [Microsoft Small Basic](https://en.wikipedia.org/wiki/Microsoft_Small_Basic) v0.1-0.5 practice codes from the "Introduction to Programming" tutorial by Ed Price. I did this as part of the [Microsoft DreamSpark](https://news.microsoft.com/2008/02/18/microsoft-gives-students-access-to-technical-software-at-no-charge-to-inspire-success-and-make-a-difference/) initiative during 2009. The codes were tested on Windows XP SP3 (32-bit) with .NET framework 3.5 SP1
 
 Reference (click on the image to access its online version):
 
